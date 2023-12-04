@@ -8,6 +8,6 @@ export const applyCustomCode = externalCodeSetup => {
 "customScreen",
 "CustomBuddyScreen",
 CustomBuddyScreen,
-"All" // "Auth" | "noAuth" | "Main" | "All"
+"Main" // "Auth" | "noAuth" | "Main" | "All"
   );
 };
